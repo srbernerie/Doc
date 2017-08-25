@@ -1,6 +1,2 @@
 = Documentation S.R.B
-
-== ToDO
-
-sauvegarde des postes clients
-
+La doc se trouve dans le wiki.
